@@ -1,6 +1,6 @@
 # Delulu
-Bookmarklet for hacklet
-It's just as a prank turns any webpage into absolute chaos. Makes the page wobble, replaces images with 🗿, adds 🚨 to buttons and links, and displays a fake “YOUR BROWSER HAS BEEN ABSOLUTELY COOKED BY Praneel23o” warning for 3.5 seconds. to end this just reload the page
+
+It's just a bookmarklet as a prank turns any webpage into absolute chaos. Makes the page wobble, replaces images with 🗿, adds 🚨 to buttons and links, and displays a fake “YOUR BROWSER HAS BEEN ABSOLUTELY COOKED BY Praneel23o” warning for 3.5 seconds. to end this just reload the page
 # steps to use
 - Create a bookmark of any website
 - Edit it and put
