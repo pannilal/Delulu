@@ -9,7 +9,4 @@ It's just as a prank turns any webpage into absolute chaos. Makes the page wobbl
   ```
 - Now click on that bookmark on it,
 # Here is a tutorial to help:
-<video controls width="100%">
-  <source src="https://hackclub.enterprise.slack.com/files/U0BFASPH7CH/F0C0MGLN5CY/screen_recording_2026-09-05_133622.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://hackclub.enterprise.slack.com/files/U0BFASPH7CH/F0C0MGLN5CY/screen_recording_2026-09-05_133622.mp4
